@@ -1,8 +1,3 @@
----
-title: Sémantickké učení legislativy
-paginate: true
----
-
 # Sémantické učení legislativy
 
 Jak to udělat, aby nejen UI rozuměla české legislativě
