@@ -19,5 +19,10 @@ Pokud máte o tuto problematiku zájem, můžeme si k tomu udělat klidně separ
 
 ---
 
-## UI a legislativa
+# UI a legislativa
 
+---
+
+## Proč UI dává špatné odpovědi?
+
+Když se pokusíte zeptat se umělé inteligence na něco z legislativy, výsledek je otřesný.
